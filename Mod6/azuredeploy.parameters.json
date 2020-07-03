@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "sqlAdministratorLogin": {
-      "value": "GEN-UNIQUE"
+      "value": "sqladmin"
     },
     "sqlAdministratorLoginPassword": {		
-      "value": "GEN-PASSWORD"		
+      "value": "Pa55w.rd1234"		
     },
     "transparentDataEncryption": {		
       "value": "Enabled"		
