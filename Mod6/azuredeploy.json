@@ -58,6 +58,10 @@
         {
           "name": "[variables('databaseName')]",
           "type": "databases",
+          "sku": {
+                        "name": "Standard",
+                        "tier": "Standard"
+          },
           "apiVersion": "2019-06-01-preview",
           "location": "[parameters('location')]",
           "tags": {
